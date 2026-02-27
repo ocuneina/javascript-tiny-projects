@@ -29,7 +29,7 @@
         <a href="https://rococo-peony-058cbe.netlify.app/" target="_blank" >Video</a> - Video control; preloader
     </li>
     <li> <!-- 10 -->
-        <a href="grand-twilight-071e16.netlify.app" target="_blank" >Scroll</a> - Smooth scrolling, responsive menu, anchors
+        <a href="graceful-valkyrie-3236f9.netlify.app" target="_blank" >Scroll</a> - Smooth scrolling, responsive menu, anchors
     </li>
     <li> <!-- 11 -->
         <a href="https://polite-donut-5677b3.netlify.app" target="_blank" >Tabs</a> - Tabs layout for navbar, conditional content display
